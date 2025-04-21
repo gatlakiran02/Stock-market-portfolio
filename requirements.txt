@@ -1,0 +1,7 @@
+streamlit
+yfinance
+gym
+matplotlib
+pandas
+numpy
+pyngrok
